@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@import "./background.css";
+
+.glass {
+    @apply backdrop-filter backdrop-blur-3xl bg-white bg-opacity-50;
+}
+
+.banner {
+    min-height: 80vh;
+}
+
+.header {
+    @apply flex justify-between mx-auto py-6 max-w-xs sm:max-w-md md:max-w-xl lg:max-w-4xl xl:max-w-7xl 2xl:max-w-screen-2xl;
+}
+
+.header-brand {
+    @apply text-xl md:text-2xl font-semibold text-gray-900;
+}
+
+.header-menu {
+    @apply md:hidden cursor-pointer;
+}
+
+.header-navbar {
+    @apply hidden md:flex space-x-16 text-lg lg:text-xl font-medium text-gray-400;
+}
+
+.header-navlink {
+    @apply cursor-pointer;
+}
+
+.header-navlink-active {
+    @apply text-green-500 border-b-4 border-green-500 pb-4;   
+}
+
+
+@tailwind utilities;

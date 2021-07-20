@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+
+.article-card {
+    @apply lg:max-w-sm mr-auto col-span-1 w-full my-8 rounded-lg hover:shadow-2xl;   
+}
+
+.article-card-img {
+    @apply lg:h-72 sm:h-72 h-64 bg-gray-200 rounded-tl-lg rounded-tr-lg;
+}
+
+.article-card-content {
+    @apply block px-5 cursor-pointer;
+}
+
+.article-card-title {
+    @apply sm:max-w-xs text-3xl font-bold text-gray-800 pt-3;
+}
+
+.article-card-subtitle {
+    @apply sm:text-sm text-xs font-medium text-gray-500 pt-5;
+}
+
+.article-card-description {
+    @apply sm:text-base sm:max-w-sm text-sm font-medium text-gray-600 py-5 max-w-xs;
+}
+
+
+.recent-article {
+    @apply lg:grid lg:grid-cols-2 mt-12 sm:mt-14;
+}
+
+.recent-article-img {
+    @apply lg:h-72 sm:h-72 rounded-tl-lg rounded-tr-lg h-60 xl:h-96 lg:w-full object-cover lg:rounded-tl-lg lg:rounded-bl-lg lg:rounded-tr-none;
+} 
+
+.recent-article-content {
+    @apply flex flex-col justify-center space-y-4 px-5 lg:px-12 xl:px-16 w-full py-5 rounded-br-lg rounded-bl-lg hover:shadow-2xl cursor-pointer;
+}
+
+.recent-article-title {
+    @apply sm:max-w-xs xl:text-4xl lg:max-w-md text-3xl font-bold text-gray-800;
+}
+
+.recent-article-subtitle {
+    @apply sm:text-sm xl:text-base text-xs font-medium text-gray-500;
+}
+
+.recent-article-description {
+    @apply sm:text-base xl:text-lg xl:max-w-md sm:max-w-sm text-sm font-medium text-gray-600;
+}
+
+.article-page-container {
+    @apply mx-auto mt-6 max-w-xs sm:max-w-md lg:max-w-4xl xl:max-w-7xl;
+}
+
+.article-page-welcome {
+    @apply xl:text-7xl text-gray-900 font-bold text-5xl sm:text-6xl;
+}
+
+
+@tailwind utilities;
+

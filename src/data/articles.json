@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Article 01",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/01.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Article 02",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/02.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Article 03",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/03.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Article 04",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/04.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Article 05",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/05.png"
+        },
+        {
+            "id": 6,
+            "title": "Article 06",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/06.png"
+        },
+        {
+            "id": 7,
+            "title": "Article 07",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/07.png"
+        },
+        {
+            "id": 8,
+            "title": "Article 08",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/08.png"
+        },
+        {
+            "id": 9,
+            "title": "Article 09",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/09.png"
+        },
+        {
+            "id": 10,
+            "title": "Article 10",
+            "date": "Mai 22, 2021",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni corporis recusandae earum voluptatibus accusamus debitis error omnis quisquam optio dicta." ,
+            "content": [],
+            "image": "../assets/images/09.png"
+        }
+    ]
+}
